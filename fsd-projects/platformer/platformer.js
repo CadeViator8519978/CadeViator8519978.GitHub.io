@@ -51,6 +51,7 @@ createCollectable('grace',1225,550)
 createCannon('left',400,1700,)
 createCannon('bottom',800,1700)
 createCannon('top',1100,1500)
+createCannon('right',600,1400)
 
     
     
